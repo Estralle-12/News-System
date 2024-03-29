@@ -1,0 +1,6 @@
+@import '~antd/dist/reset.css';
+
+
+::-webkit-scrollbar{width: 5px;height: 5px;position: absolute;}
+::-webkit-slider-thumb{background-color: skyblue;}
+::-webkit-scrollbar-track{background-color:pink;}

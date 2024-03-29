@@ -1,0 +1,17 @@
+.formcontent{
+    position: fixed;
+    background-color:rgba(0,0,0,0.1);
+    width: 500px;
+    height:320px;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
+}
+.logintitle{
+    font-size: 30px;
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+    color: white;
+}

@@ -1,0 +1,7 @@
+.site-layout-background{
+    background-color: #fff;
+}
+
+#root,.ant-layout{
+    height: 100vh;
+}
